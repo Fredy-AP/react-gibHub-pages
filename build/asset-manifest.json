@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/github.io/react-github-pages/build/static/css/main.44b773d5.css",
+    "main.js": "/github.io/react-github-pages/build/static/js/main.4f8b7b9d.js",
+    "static/js/787.dfb0bceb.chunk.js": "/github.io/react-github-pages/build/static/js/787.dfb0bceb.chunk.js",
+    "static/media/rick-morty.png": "/github.io/react-github-pages/build/static/media/rick-morty.ed9fa0be01b38da56af4.png",
+    "index.html": "/github.io/react-github-pages/build/index.html",
+    "main.44b773d5.css.map": "/github.io/react-github-pages/build/static/css/main.44b773d5.css.map",
+    "main.4f8b7b9d.js.map": "/github.io/react-github-pages/build/static/js/main.4f8b7b9d.js.map",
+    "787.dfb0bceb.chunk.js.map": "/github.io/react-github-pages/build/static/js/787.dfb0bceb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44b773d5.css",
+    "static/js/main.4f8b7b9d.js"
+  ]
+}
